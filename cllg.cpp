@@ -8,7 +8,7 @@ using namespace std;
       {
         cout<<"\ved"<<val;
       }
-  };
+  }
       int main(){
         test t1,t2;
         t1.val=5;
